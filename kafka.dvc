@@ -1,0 +1,6 @@
+outs:
+- md5: b8b2f2c80bb2d42e8e8a4f27d1be2204.dir
+  size: 0
+  nfiles: 2
+  hash: md5
+  path: kafka
