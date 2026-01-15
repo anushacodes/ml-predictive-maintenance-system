@@ -209,7 +209,4 @@ __marimo__/
 
 # extras
 steps.txt
-mlops/
-/kafka
-/requirements.txt
-/src
+
